@@ -1,0 +1,15 @@
+{
+    "name": "manue/php_devoir2_expert",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "raviel96",
+            "email": "manuelfontaine971@gmail.com"
+        }
+    ],
+    "require": {}
+}
