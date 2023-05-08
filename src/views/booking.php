@@ -13,14 +13,15 @@
             <h1>Nom du site</h1>
             <nav>
                 <ul class="main-nav">
-                    <li><a href="#hotels">Accueil</a></li>
-                    <li><a href="#booking">Hôtels</a></li>
+                    <li><a href="../public/index.php">Accueil</a></li>
+                    <li><a href="hotels.php">Hôtels</a></li>
                 </ul>
             </nav>
         </header>
         <div class="page-preview">
             <p></p>
         </div>
-    </div>
-</body>
-</html>
+        <main>
+            
+        </main>
+<?php include "templates/footer.php" ?>

@@ -13,7 +13,7 @@
             <h1>Nom du site</h1>
             <nav>
                 <ul class="main-nav">
-                    <li><a href="#hotels">Accueil</a></li>
+                    <li><a href="../public/index.php">Accueil</a></li>
                     <li><a href="#booking">Réservation</a></li>
                 </ul>
             </nav>
@@ -26,11 +26,10 @@
                 <div class="card">
                     <img src="" alt="">
                     <h2></h2>
-                    <p></p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos omnis debitis nemo corrupti impedit nesciunt expedita similique saepe est. Et maxime explicabo libero cupiditate dicta odio fuga quidem veritatis illo?</p>
+                    <address></address>
                     <a href="">Réserver une chambre</a>
                 </div>
             </section>
         </main>
-    </div>
-</body>
-</html>
+<?php include "templates/footer.php" ?>
