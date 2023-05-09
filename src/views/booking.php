@@ -14,7 +14,7 @@
             <h1>Book'in</h1>
             <nav>
                 <ul class="main-nav">
-                    <li><a href="../public/index.php">Accueil</a></li>
+                    <li><a href="../../public/index.php">Accueil</a></li>
                     <li><a href="hotels.php">Hôtels</a></li>
                 </ul>
             </nav>
